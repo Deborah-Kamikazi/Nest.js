@@ -1,2 +1,2 @@
 # Nest.js
-This repo contains more Nest.js framework
+This repo contains more on Nest.js framework
